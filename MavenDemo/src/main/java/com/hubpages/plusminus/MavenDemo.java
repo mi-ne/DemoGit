@@ -35,5 +35,8 @@ public class MavenDemo extends ActionSupport{
     
     class A{
     	String name;
+    	void print(){
+    		System.out.println("やぁ");
+    	}
     }
 }
