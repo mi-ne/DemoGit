@@ -31,4 +31,9 @@ public class MavenDemo extends ActionSupport{
         MavenDemo md = new MavenDemo();
         md.executeAll();
     }
+    
+    
+    class A{
+    	String name;
+    }
 }
